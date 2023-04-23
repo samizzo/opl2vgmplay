@@ -1,4 +1,4 @@
-Simple OPL2 VGM player for Windows
+Simple command-line OPL2 VGM player for Windows
 
 Usage: opl2vgmplay <filename.vgm>
 
